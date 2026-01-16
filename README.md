@@ -1,4 +1,4 @@
-# Modern Login App with Google & GitHub OAuth 🔐
+# Modern Login App with Google & GitHub OAuth
 
 
 ### Frontend
@@ -97,7 +97,7 @@ npm run dev
 ```
 Backend will run on: `http://localhost:3001`
 
-## How It Works 🔍
+## How It Works
 
 ### Google OAuth Flow
 1. User clicks "Sign in with Google"
